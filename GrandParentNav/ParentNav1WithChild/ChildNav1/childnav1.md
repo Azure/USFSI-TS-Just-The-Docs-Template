@@ -8,5 +8,5 @@ nav_order: 1
 
 # This is Third/Last level Grand Child Navigation Page 1 #
 
+{: .note }
 Currently, the navigation structure is limited to 3 levels: grandchild pages cannot themselves have child pages.
-{: .label .label-purple }
